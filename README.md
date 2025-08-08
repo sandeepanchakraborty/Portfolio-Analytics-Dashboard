@@ -48,7 +48,7 @@ It supports integration with various data sources, customizable analytics, and b
 
 | Dashboard Overview | Asset Allocation | Portfolio Performance |
 |:------------------:|:---------------:|:--------------------:|
-| ![Dashboard](assets/screenshots/dashboard.png) | ![Allocation](assets/screenshots/allocation.png) | ![Performance](assets/screenshots/performance.png) |
+| ![Dashboard](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/image.png) (https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015106.png) | ![Allocation](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015124.png) | ![Stocks](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015201.png) (https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015140.png) |
 
 ---
 
