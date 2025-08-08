@@ -172,15 +172,8 @@ If you’d like to add features, fix bugs, or improve documentation:
 3. Push to the branch (`git push origin feature/AmazingFeature`)
 4. Open a Pull Request
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
 ---
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 ## Contact
 
@@ -190,5 +183,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-> **Tip:**  
-> Replace placeholders (like screenshots, email, and API details) with your actual project content for best results!
