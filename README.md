@@ -10,6 +10,7 @@
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Screenshots](#screenshots)
+- [Gallery: All Screenshots](#gallery-all-screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -44,11 +45,49 @@ It supports integration with various data sources, customizable analytics, and b
 
 ## Screenshots
 
-> **Replace the image links below with your own screenshots!**
+Here are some example screenshots from the dashboard:
 
-| Dashboard Overview | Asset Allocation | Portfolio Performance |
-|:------------------:|:---------------:|:--------------------:|
-| ![Dashboard](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/image.png) (https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015106.png) | ![Allocation](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015124.png) | ![Stocks](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015201.png) (https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015140.png) |
+| Dashboard Overview                                                                                                             | Asset Allocation                                                                                                              | Portfolio Performance                                                                                                          |
+|:-----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| ![Dashboard](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015106.png) | ![Allocation](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015124.png) | ![Performance](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015201.png) |
+
+---
+
+## Gallery: All Screenshots
+
+Below you'll find a gallery of all available screens in the dashboard. This section helps you preview every feature and layout at a glance.
+
+### Main Dashboard
+
+![Main Dashboard](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015043.png)
+
+---
+
+### Overview
+
+![Dashboard Overview](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015106.png)
+
+---
+
+### Asset Allocation
+
+![Asset Allocation](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015124.png)
+
+---
+
+### Portfolio Performance
+
+![Portfolio Performance](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015140.png)
+
+---
+
+### Holdings and Stocks
+
+![Holdings Table](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015201.png)
+
+---
+
+*(Add more sections and screenshot placeholders here as your project grows!)*
 
 ---
 
@@ -174,7 +213,6 @@ If you’d like to add features, fix bugs, or improve documentation:
 
 ---
 
-
 ## Contact
 
 **Sandeepan Chakraborty**  
@@ -182,4 +220,3 @@ If you’d like to add features, fix bugs, or improve documentation:
 - Email: [your.email@example.com](mailto:sandeepanchakraborty123@gmail.com)
 
 ---
-
