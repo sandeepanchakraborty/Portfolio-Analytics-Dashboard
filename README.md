@@ -87,9 +87,6 @@ Below you'll find a gallery of all available screens in the dashboard. This sect
 
 ---
 
-*(Add more sections and screenshot placeholders here as your project grows!)*
-
----
 
 ## Getting Started
 
