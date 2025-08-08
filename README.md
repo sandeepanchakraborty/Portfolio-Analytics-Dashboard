@@ -1,6 +1,6 @@
 # Portfolio Analytics Dashboard
 
-![Project Banner](assets/banner.png)  
+![Project Banner](https://github.com/sandeepanchakraborty/Portfolio-Analytics-Dashboard/blob/main/Screenshot%202025-08-09%20015043.png)  
 *A comprehensive, interactive dashboard for analyzing your investment portfolio, built for transparency, insights, and decision support.*
 
 ---
