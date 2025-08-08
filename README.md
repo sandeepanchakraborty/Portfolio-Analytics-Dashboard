@@ -179,7 +179,7 @@ If you’d like to add features, fix bugs, or improve documentation:
 
 **Sandeepan Chakraborty**  
 - GitHub: [@sandeepanchakraborty](https://github.com/sandeepanchakraborty)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:sandeepanchakraborty123@gmail.com)
 
 ---
 
