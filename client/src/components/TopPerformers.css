@@ -1,0 +1,66 @@
+.top-performers-section {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.08);
+  padding: 2rem 2.5rem;
+  margin: 2rem auto;
+  max-width: 1200px;
+}
+.top-performers-cards {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+.tp-card {
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.06);
+  padding: 1.2rem 2rem;
+  min-width: 220px;
+  max-width: 320px;
+  flex: 1 1 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.tp-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+.tp-symbol {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #1db954;
+}
+.tp-gain {
+  color: #1db954;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+.tp-loss {
+  color: #e74c3c;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+.tp-name {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 0.3rem;
+}
+.tp-card.insights {
+  background: #f5f5fa;
+}
+@media (max-width: 900px) {
+  .top-performers-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+  .tp-card {
+    min-width: 90vw;
+    max-width: 98vw;
+  }
+}

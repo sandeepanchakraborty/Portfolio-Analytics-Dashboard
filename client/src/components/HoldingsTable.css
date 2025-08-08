@@ -1,0 +1,29 @@
+.holdings-table-section {
+  margin: 2rem 0;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.08);
+  padding: 2rem 2.5rem;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.holdings-table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.holdings-table .gain {
+  color: #1db954;
+  font-weight: 600;
+}
+.holdings-table .loss {
+  color: #e74c3c;
+  font-weight: 600;
+}
+@media (max-width: 900px) {
+  .holdings-table-section {
+    padding: 1rem 0.5rem;
+  }
+}

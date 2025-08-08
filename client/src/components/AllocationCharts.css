@@ -1,0 +1,42 @@
+.allocation-charts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+.chart-card {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.08);
+  padding: 1.5rem 2rem;
+  min-width: 320px;
+  max-width: 420px;
+  flex: 1 1 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.chart-card h3 {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+}
+.allocation-charts-loading,
+.allocation-charts-error {
+  text-align: center;
+  color: #b00;
+  font-weight: 500;
+  margin: 2rem 0;
+}
+@media (max-width: 900px) {
+  .allocation-charts {
+    flex-direction: column;
+    align-items: center;
+  }
+  .chart-card {
+    min-width: 90vw;
+    max-width: 98vw;
+  }
+}

@@ -1,0 +1,36 @@
+.performance-chart-section {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.08);
+  padding: 2rem 2.5rem;
+  margin: 2rem auto;
+  max-width: 1200px;
+}
+.performance-metrics {
+  margin-top: 1.5rem;
+}
+.performance-metrics table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+.performance-metrics th,
+.performance-metrics td {
+  padding: 0.5rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+}
+.performance-metrics th {
+  background: #f5f5fa;
+  font-weight: 600;
+}
+.performance-metrics tr:last-child td {
+  border-bottom: none;
+}
+@media (max-width: 900px) {
+  .performance-chart-section {
+    padding: 1rem 0.5rem;
+  }
+}

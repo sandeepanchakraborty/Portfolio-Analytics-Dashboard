@@ -1,0 +1,60 @@
+.overview-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
+  margin-bottom: 36px;
+}
+.overview-card {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 18px;
+  box-shadow: 0 4px 24px #b8c1ec33, 0 2px 8px #eebbc355;
+  padding: 32px 38px 24px 38px;
+  min-width: 220px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: box-shadow 0.2s, transform 0.2s;
+  border: 2px solid #eebbc3;
+}
+.overview-card:hover {
+  box-shadow: 0 8px 32px #eebbc399, 0 4px 16px #b8c1ec99;
+  transform: translateY(-4px) scale(1.04);
+}
+.value-card .oc-value {
+  font-size: 2.2em;
+  font-weight: 800;
+  color: #232946;
+  text-shadow: 0 2px 8px #eebbc355;
+}
+.gainloss-card.gain .oc-value {
+  color: #1db954;
+  text-shadow: 0 2px 8px #1db95433;
+}
+.gainloss-card.loss .oc-value {
+  color: #c62828;
+  text-shadow: 0 2px 8px #c6282833;
+}
+.perf-card .oc-value {
+  color: #b8c1ec;
+  font-size: 2em;
+  font-weight: 700;
+}
+.holdings-card .oc-value {
+  color: #eebbc3;
+  font-size: 2em;
+  font-weight: 700;
+}
+.oc-title {
+  font-size: 1.1em;
+  color: #232946;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+.overview-cards-loading,
+.overview-cards-error {
+  text-align: center;
+  font-size: 1.2em;
+  color: #c62828;
+  margin-bottom: 24px;
+}
